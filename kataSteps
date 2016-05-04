@@ -1,0 +1,7 @@
+1- Retourne 0 Si la valeur est null;
+2- Retourne un entier de la valeur dont la longeur est 1 ;
+3- Retourne la somme des deux nombres délimité par ",";
+4- Retourne la somme des deux nombres délimités par "\n";
+5- retoune la somme des trois valuers délimités par ",";
+6- Détecter une valeur négative;
+7- Igniorer les valeurs supérieur à 1000;
