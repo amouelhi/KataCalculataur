@@ -43,7 +43,7 @@ public class TestCalculateur {
 
 	@Test(expected = Exception.class)
 	public void negativeNumber() throws Exception {
-		calc.calculateSum("-2");
+		calc.calculateSum("-3");
 	}
 
 	@Test
